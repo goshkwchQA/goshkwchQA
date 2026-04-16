@@ -1,16 +1,43 @@
-## Hi there 👋
+_Привет! Я тестировщик, который верит, что качество — это не просто поиск багов, а часть создания хорошего продукта._
 
-<!--
-**goshkwchQA/goshkwchQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Для меня важно работать в компании, где я смогу применить свои знания и опыт в этой области, а также участвовать в интересных и сложных проектах, способствующих моему профессиональному развитию и достижению общих целей команды._
 
-Here are some ideas to get you started:
+_Как я работаю:_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_1. Тестирую вручную, но всегда думаю о том, как автоматизировать рутину (Python, Cypress + учу то, что нужно проекту)._
+
+_2. Знаю весь цикл разработки и понимаю, где чаще всего возникают ошибки — чтобы ловить их до релиза._
+
+_3. Пишу документацию просто и понятно — чтобы вся команда экономила время._
+
+_Что для меня важно в работе:_
+
+_1. Хочу, чтобы тестирование было не формальностью, а частью разработки._
+
+_2. Ищу место, где можно расти: от ручного тестирования к автоматизации._
+
+_3. Ценю честность и открытость — когда проблемы решают вместе, а не перекидывают ответственность._
+
+
+Навыки
+
+Тестирование и теория
+Web-тестирование, обеспечение качества ПО, составление MindMap, кроссбраузерное и кроссплатформенное тестирование, Scrum, Kanban
+
+API-инструменты
+Postman, Insomnia, Jaeger, SOAP UI, Charles, DevTools, cUrl, Kibana, Sentry, Swagger
+
+SQL и базы данных
+MySQL, PostgreSQL, MongoDB, Redis, DBeaver, Metabase
+
+Управление проектами и TMS
+Jira, Яндекс трекер, Test it, Qase.io
+
+Языки программирования и контроль версий
+Python, JavaScript, VS Code, PyCharm, Git, GitHub, GitLab ci/cd, GitHub Actions
+
+Автоматизация
+Selenium, Python requests, Pytest, Cypress, Allure
+
+Макеты и дизайн
+Figma, PixelPerfect
